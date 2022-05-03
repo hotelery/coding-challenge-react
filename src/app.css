@@ -1,0 +1,14 @@
+html, body {
+  text-align: center;
+}
+header {
+  margin: 1rem auto 2rem;
+}
+
+.logo {
+  max-width: 100px;
+}
+
+footer {
+  margin: 1rem auto 2rem;
+}
