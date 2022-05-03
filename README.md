@@ -14,7 +14,7 @@ These are your todos. Good luck!
 3. The command `npm run test` must not fail
 
 ## Contact
-**hotelery**, a we.io® GmbH product
+**hotelery**, a we.io® GmbH product  
 Daimlerstr. 11  
 85080 Gaimersheim  
 +49 8458 / 397 60 40  
